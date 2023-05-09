@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ScottdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="EMP">
+    <Key>
+      <PropertyRef Name="EMPNO" />
+    </Key>
+    <Property Name="EMPNO" Type="int" Nullable="false" />
+    <Property Name="ENAME" Type="varchar" MaxLength="30" />
+    <Property Name="JOB" Type="varchar" MaxLength="20" />
+    <Property Name="MGR" Type="int" />
+    <Property Name="HIREDATE" Type="date" />
+    <Property Name="SAL" Type="int" />
+    <Property Name="COMM" Type="int" />
+    <Property Name="DEPTNO" Type="int" />
+    <Property Name="EMAIL" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityContainer Name="ScottdbModelStoreContainer">
+    <EntitySet Name="EMP" EntityType="Self.EMP" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

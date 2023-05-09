@@ -1,0 +1,6 @@
+C:\Users\sribh\source\repos\EntityClassLibrary\bin\Debug\EntityClassLibrary.dll
+C:\Users\sribh\source\repos\EntityClassLibrary\bin\Debug\EntityClassLibrary.pdb
+C:\Users\sribh\source\repos\EntityClassLibrary\obj\Debug\EntityClassLibrary.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EntityClassLibrary\obj\Debug\EntityClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\EntityClassLibrary\obj\Debug\EntityClassLibrary.dll
+C:\Users\sribh\source\repos\EntityClassLibrary\obj\Debug\EntityClassLibrary.pdb

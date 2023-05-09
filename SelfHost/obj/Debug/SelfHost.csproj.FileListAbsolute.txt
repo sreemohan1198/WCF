@@ -1,0 +1,12 @@
+C:\Users\sribh\source\repos\SelfHost\bin\Debug\SelfHost.exe.config
+C:\Users\sribh\source\repos\SelfHost\bin\Debug\SelfHost.exe
+C:\Users\sribh\source\repos\SelfHost\bin\Debug\SelfHost.pdb
+C:\Users\sribh\source\repos\SelfHost\bin\Debug\EmpServiceLib.dll
+C:\Users\sribh\source\repos\SelfHost\bin\Debug\EmpServiceLib.pdb
+C:\Users\sribh\source\repos\SelfHost\bin\Debug\EmpServiceLib.dll.config
+C:\Users\sribh\source\repos\SelfHost\obj\Debug\SelfHost.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\SelfHost\obj\Debug\SelfHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\sribh\source\repos\SelfHost\obj\Debug\SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\SelfHost\obj\Debug\SelfHost.csproj.CopyComplete
+C:\Users\sribh\source\repos\SelfHost\obj\Debug\SelfHost.exe
+C:\Users\sribh\source\repos\SelfHost\obj\Debug\SelfHost.pdb

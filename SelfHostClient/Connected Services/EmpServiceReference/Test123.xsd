@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/EmpServiceLib" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/EmpServiceLib" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfDept">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Dept" nillable="true" type="tns:Dept" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDept" nillable="true" type="tns:ArrayOfDept" />
+  <xs:complexType name="Dept">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DEPTNO" type="xs:int" />
+      <xs:element minOccurs="0" name="DNAME" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LOC" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Dept" nillable="true" type="tns:Dept" />
+</xs:schema>

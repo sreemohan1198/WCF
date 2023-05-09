@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\EMPWCFHOST</_PublishTargetUrl>
+    <History>True|2023-05-09T15:32:29.9651425Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ClassLibraryWCF.dll">
+      <publishTime>05/09/2023 11:23:12</publishTime>
+    </File>
+    <File Include="bin/ClassLibraryWCF.dll.config">
+      <publishTime>05/09/2023 10:24:13</publishTime>
+    </File>
+    <File Include="bin/ClassLibraryWCF.pdb">
+      <publishTime>05/09/2023 11:23:12</publishTime>
+    </File>
+    <File Include="bin/EmployeesWcfServiceLibrary.dll">
+      <publishTime>05/09/2023 11:23:17</publishTime>
+    </File>
+    <File Include="bin/EmployeesWcfServiceLibrary.dll.config">
+      <publishTime>05/09/2023 10:27:50</publishTime>
+    </File>
+    <File Include="bin/EmployeesWcfServiceLibrary.pdb">
+      <publishTime>05/09/2023 11:23:17</publishTime>
+    </File>
+    <File Include="bin/EmployeeWcfServiceApplication.dll">
+      <publishTime>05/09/2023 11:32:29</publishTime>
+    </File>
+    <File Include="bin/EmployeeWcfServiceApplication.pdb">
+      <publishTime>05/09/2023 11:32:29</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>05/09/2023 11:28:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/09/2023 11:32:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

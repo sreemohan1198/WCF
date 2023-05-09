@@ -1,0 +1,8 @@
+C:\Users\sribh\source\repos\IISHotClient\bin\Debug\IISHotClient.exe.config
+C:\Users\sribh\source\repos\IISHotClient\bin\Debug\IISHotClient.exe
+C:\Users\sribh\source\repos\IISHotClient\bin\Debug\IISHotClient.pdb
+C:\Users\sribh\source\repos\IISHotClient\obj\Debug\IISHostClient.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\IISHotClient\obj\Debug\IISHostClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\sribh\source\repos\IISHotClient\obj\Debug\IISHostClient.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\IISHotClient\obj\Debug\IISHotClient.exe
+C:\Users\sribh\source\repos\IISHotClient\obj\Debug\IISHotClient.pdb

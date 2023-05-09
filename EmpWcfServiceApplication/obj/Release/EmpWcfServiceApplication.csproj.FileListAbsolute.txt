@@ -1,0 +1,2 @@
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Release\EmpWcfServiceApplication.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Release\EmpWcfServiceApplication.csproj.CoreCompileInputs.cache

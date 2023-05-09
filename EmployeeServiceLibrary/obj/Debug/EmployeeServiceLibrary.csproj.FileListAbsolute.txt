@@ -1,0 +1,13 @@
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EmployeeServiceLibrary.dll.config
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EmployeeServiceLibrary.dll
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EmployeeServiceLibrary.pdb
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EmpClassLibrary.dll
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EmpClassLibrary.pdb
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EmpClassLibrary.dll.config
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.csproj.CopyComplete
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.dll
+C:\Users\sribh\source\repos\EmployeeServiceLibrary\obj\Debug\EmployeeServiceLibrary.pdb

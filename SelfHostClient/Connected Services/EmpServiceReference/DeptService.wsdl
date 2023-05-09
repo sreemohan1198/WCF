@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="DeptService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://laptop-nkhtoi6a/Test123?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://laptop-nkhtoi6a/Test123?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://laptop-nkhtoi6a/Test123?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/EmpServiceLib" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IDept_GetDepartments_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDepartments" />
+  </wsdl:message>
+  <wsdl:message name="IDept_GetDepartments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDepartmentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDept_AddDepartment_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddDepartment" />
+  </wsdl:message>
+  <wsdl:message name="IDept_AddDepartment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddDepartmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDept_UpdateDepartment_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateDepartment" />
+  </wsdl:message>
+  <wsdl:message name="IDept_UpdateDepartment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateDepartmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IDept_DeleteDepartment_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteDepartment" />
+  </wsdl:message>
+  <wsdl:message name="IDept_DeleteDepartment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteDepartmentResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IDept">
+    <wsdl:operation name="GetDepartments">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDept/GetDepartments" message="tns:IDept_GetDepartments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDept/GetDepartmentsResponse" message="tns:IDept_GetDepartments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddDepartment">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDept/AddDepartment" message="tns:IDept_AddDepartment_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDept/AddDepartmentResponse" message="tns:IDept_AddDepartment_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDepartment">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDept/UpdateDepartment" message="tns:IDept_UpdateDepartment_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDept/UpdateDepartmentResponse" message="tns:IDept_UpdateDepartment_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDepartment">
+      <wsdl:input wsaw:Action="http://tempuri.org/IDept/DeleteDepartment" message="tns:IDept_DeleteDepartment_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IDept/DeleteDepartmentResponse" message="tns:IDept_DeleteDepartment_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IDept" type="tns:IDept">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetDepartments">
+      <soap:operation soapAction="http://tempuri.org/IDept/GetDepartments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddDepartment">
+      <soap:operation soapAction="http://tempuri.org/IDept/AddDepartment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDepartment">
+      <soap:operation soapAction="http://tempuri.org/IDept/UpdateDepartment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDepartment">
+      <soap:operation soapAction="http://tempuri.org/IDept/DeleteDepartment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DeptService">
+    <wsdl:port name="BasicHttpBinding_IDept" binding="tns:BasicHttpBinding_IDept">
+      <soap:address location="http://localhost:8086/EmpService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

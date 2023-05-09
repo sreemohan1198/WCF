@@ -1,0 +1,13 @@
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\EmployeesWcfServiceLibrary.dll.config
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\EmployeesWcfServiceLibrary.dll
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\EmployeesWcfServiceLibrary.pdb
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\ClassLibraryWCF.dll
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\ClassLibraryWCF.pdb
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\ClassLibraryWCF.dll.config
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\obj\Debug\EmployeesWcfServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\obj\Debug\EmployeesWcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\obj\Debug\EmployeesWcfServiceLibrary.csproj.CopyComplete
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\obj\Debug\EmployeesWcfServiceLibrary.dll
+C:\Users\sribh\source\repos\EmployeesWcfServiceLibrary\obj\Debug\EmployeesWcfServiceLibrary.pdb

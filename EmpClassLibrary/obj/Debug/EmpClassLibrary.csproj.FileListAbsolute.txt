@@ -1,0 +1,12 @@
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EmpClassLibrary.dll.config
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EmpClassLibrary.dll
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EmpClassLibrary.pdb
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\sribh\source\repos\EmpClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sribh\source\repos\EmpClassLibrary\obj\Debug\EmpClassLibrary.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EmpClassLibrary\obj\Debug\EmpClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\EmpClassLibrary\obj\Debug\EmpClassLibrary.csproj.CopyComplete
+C:\Users\sribh\source\repos\EmpClassLibrary\obj\Debug\EmpClassLibrary.dll
+C:\Users\sribh\source\repos\EmpClassLibrary\obj\Debug\EmpClassLibrary.pdb

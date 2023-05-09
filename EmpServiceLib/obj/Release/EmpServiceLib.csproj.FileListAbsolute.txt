@@ -1,0 +1,7 @@
+C:\Users\sribh\source\repos\EmpServiceLib\bin\Release\EmpServiceLib.dll.config
+C:\Users\sribh\source\repos\EmpServiceLib\bin\Release\EmpServiceLib.dll
+C:\Users\sribh\source\repos\EmpServiceLib\bin\Release\EmpServiceLib.pdb
+C:\Users\sribh\source\repos\EmpServiceLib\obj\Release\EmpServiceLib.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EmpServiceLib\obj\Release\EmpServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\EmpServiceLib\obj\Release\EmpServiceLib.dll
+C:\Users\sribh\source\repos\EmpServiceLib\obj\Release\EmpServiceLib.pdb

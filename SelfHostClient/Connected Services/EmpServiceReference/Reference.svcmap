@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="60572486-ee76-440b-84db-35f8cfe8e8ee" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://laptop-nkhtoi6a/Test123" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DeptService.wsdl" MetadataType="Wsdl" ID="66385275-49b6-4f5b-868c-f6c79c8fa1c6" SourceId="1" SourceUrl="http://laptop-nkhtoi6a/Test123?wsdl" />
+    <MetadataFile FileName="Test123.xsd" MetadataType="Schema" ID="e4936dc0-ff7d-448c-a033-3a093223564c" SourceId="1" SourceUrl="http://laptop-nkhtoi6a/Test123?xsd=xsd2" />
+    <MetadataFile FileName="Test1231.xsd" MetadataType="Schema" ID="cdd6a677-5f53-4050-89d2-60c138d03d99" SourceId="1" SourceUrl="http://laptop-nkhtoi6a/Test123?xsd=xsd0" />
+    <MetadataFile FileName="Test123.disco" MetadataType="Disco" ID="70c82710-4d75-4ff9-96bf-717dfcea3a1b" SourceId="1" SourceUrl="http://laptop-nkhtoi6a/Test123?disco" />
+    <MetadataFile FileName="Test1232.xsd" MetadataType="Schema" ID="6fb73818-30e5-453f-b692-48fd1875c086" SourceId="1" SourceUrl="http://laptop-nkhtoi6a/Test123?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

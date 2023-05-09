@@ -1,0 +1,11 @@
+C:\Users\sribh\source\repos\IISHost\bin\IISHost.dll.config
+C:\Users\sribh\source\repos\IISHost\bin\IISHost.dll
+C:\Users\sribh\source\repos\IISHost\bin\IISHost.pdb
+C:\Users\sribh\source\repos\IISHost\obj\Debug\IISHost.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\IISHost\obj\Debug\IISHost.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\IISHost\obj\Debug\IISHost.dll
+C:\Users\sribh\source\repos\IISHost\obj\Debug\IISHost.pdb
+C:\Users\sribh\source\repos\IISHost\bin\EmpServiceLib.dll
+C:\Users\sribh\source\repos\IISHost\bin\EmpServiceLib.pdb
+C:\Users\sribh\source\repos\IISHost\bin\EmpServiceLib.dll.config
+C:\Users\sribh\source\repos\IISHost\obj\Debug\IISHost.csproj.CopyComplete

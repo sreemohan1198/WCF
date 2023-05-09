@@ -1,0 +1,8 @@
+C:\Users\sribh\source\repos\SelfHostClient\obj\Debug\SelfHostClient.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\SelfHostClient\obj\Debug\SelfHostClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\sribh\source\repos\SelfHostClient\obj\Debug\SelfHostClient.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\SelfHostClient\bin\Debug\SelfHostClient.exe.config
+C:\Users\sribh\source\repos\SelfHostClient\bin\Debug\SelfHostClient.exe
+C:\Users\sribh\source\repos\SelfHostClient\bin\Debug\SelfHostClient.pdb
+C:\Users\sribh\source\repos\SelfHostClient\obj\Debug\SelfHostClient.exe
+C:\Users\sribh\source\repos\SelfHostClient\obj\Debug\SelfHostClient.pdb

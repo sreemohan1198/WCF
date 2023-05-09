@@ -1,0 +1,16 @@
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EmpWcfServiceApplication.dll.config
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EmpWcfServiceApplication.dll
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EmpWcfServiceApplication.pdb
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Debug\EmpWcfServiceApplication.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Debug\EmpWcfServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Debug\EmpWcfServiceApplication.dll
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Debug\EmpWcfServiceApplication.pdb
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EntityClassLibraryWCF.dll
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EntityFramework.dll
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EntityClassLibraryWCF.pdb
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EntityClassLibraryWCF.dll.config
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EntityFramework.xml
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\obj\Debug\EmpWcfServiceApplication.csproj.CopyComplete
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EmpWcfServiceLibrary.dll
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EmpWcfServiceLibrary.pdb
+C:\Users\sribh\source\repos\EmpWcfServiceApplication\bin\EmpWcfServiceLibrary.dll.config
